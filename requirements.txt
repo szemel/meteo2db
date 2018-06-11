@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+opencv-python
+pytesseract
+requests
+requests[socks]
+stem
+sqlalchemy-utils
+mysql-python
+pandas
+sklearn
